@@ -1,4 +1,4 @@
-QR CODE READER COVID
+FORM 2 QR CODE READER
 
 This project is coded in flutter dart programming language so the project aim is to generate what ever the user type then it generate a QR-CODE for it. When the form is needed then directly we can scan the qr-code so it will redirect to the form page 
 
